@@ -1,5 +1,5 @@
 # sublime text 默认设置
-```json
+
 // Place your settings in the file "Packages/User/Preferences.sublime-settings",
 // which overrides the settings in here.
 //
@@ -893,4 +893,4 @@
 }
 
 
-```
+
